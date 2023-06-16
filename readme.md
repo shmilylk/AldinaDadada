@@ -2,12 +2,12 @@
 
 
 
-<div align="center"><p>The website for Klee, the cutest genius Genshin character out there!</p>
-<p>献给原神最可爱的天才可莉酱</p></div>
+<div align="center"><p>The website for Aldina, the cutest genius commander Aldina!</p>
+<p>献给圣会骑士团最可爱的团长阿尔狄娜</p></div>
 
-# 可莉哒哒哒| クレーだだだ | Klee Dadada 
+# 阿尔狄娜哒哒哒| Aldinaだだだ | Aldina Dadada 
 
-[主页 | ホーム ページ | Home Page（Github）](https://github.com/genshinKlee/KleeDadada)
+[主页 | ホーム ページ | Home Page（Github）](https://github.com/genshinKlee/AldinaDadada)
 
 
 
@@ -19,19 +19,25 @@ The source code referenced by this website: [Herta Kuru~](https://github.com/dui
 
 
 
-感谢 [@Seseren_kr](https://twitter.com/Seseren_kr) 提供的可莉 gif图片 | 
+感谢 [@安然安三三鸭](https://space.bilibili.com/72466432) 绘制的可莉 gif图片 | 
 
- [@Seseren_kr](https://twitter.com/Seseren_kr) さんが提供してくれた可莉のGIF画像に感謝します| 
+ [@安然安三三鸭](https://space.bilibili.com/72466432) aldinaのgif画像を描きました | 
 
-Thanks [@Seseren_kr](https://twitter.com/Seseren_kr) for the Klee gif picture
+Thanks [@安然安三三鸭](https://space.bilibili.com/72466432) for the Aldina gif picture
+
+感谢 [@Dio5king](https://space.bilibili.com/37890879) 绘制的阿尔狄娜头像 | 
+
+ [@Dio5king](https://space.bilibili.com/37890879) aldinaのavatar画像を描きました | 
+
+Thanks [@Dio5king](https://space.bilibili.com/37890879) for the Aldina avatar picture
 
 
 
-角色版权归米哈游所有 |
+角色版权归bilibili[@阿尔狄娜-Aldina](https://space.bilibili.com/515640590)所有 |
 
-キャラクターの著作権はmiHoYoに帰属します |
+角色的版权归bilibili[@阿尔狄娜-Aldina](https://space.bilibili.com/515640590)所有 |
 
-The art the relevant copyright of Genshin Impact belongs to miHoYo/HoYoverse.
+The art the relevant copyright of bilibili[@阿尔狄娜-Aldina](https://space.bilibili.com/515640590).
 
 
 
