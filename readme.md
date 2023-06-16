@@ -7,7 +7,7 @@
 
 # 阿尔狄娜哒哒哒| Aldinaだだだ | Aldina Dadada 
 
-[主页 | ホーム ページ | Home Page（Github）](https://github.com/genshinKlee/AldinaDadada)
+[主页 | ホーム ページ | Home Page（Github）](https://github.com/shmilylk/AldinaDadada)
 
 
 
@@ -16,6 +16,11 @@
 このウェブサイトは、参考元のソースコード：[Herta Kuru~](https://github.com/duiqt/herta_kuru) |
 
 The source code referenced by this website: [Herta Kuru~](https://github.com/duiqt/herta_kuru) 
+本网站所参考的源码：[genshinKlee.github.io](https://github.com/genshinKlee/genshinKlee.github.io) |
+
+このウェブサイトは、参考元のソースコード：[genshinKlee.github.io](https://github.com/genshinKlee/genshinKlee.github.io) |
+
+The source code referenced by this website: [genshinKlee.github.io](https://github.com/genshinKlee/genshinKlee.github.io) 
 
 
 
