@@ -312,11 +312,9 @@ function animateAldina() {
     const random = Math.floor(Math.random() * 5) +1; //1-6
     const elem = document.createElement("img");
     elem.src = tryCachedObject(`img/animation/${random}.gif`);
-    elem.style.width = "30%";
     elem.style.position = "absolute";
     elem.style.right = "-500px";
-    // elem.style.top = counterButton.getClientRects()[0].bottom + scrollY - 430 + "px"
-    elem.style.top = "300px"
+    elem.style.top = counterButton.getClientRects()[0].bottom + scrollY - 430 + "px"
     elem.style.zIndex = "-10";
     document.body.appendChild(elem);
 
